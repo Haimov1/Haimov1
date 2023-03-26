@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏽‍♂️ I'm Yuval Haimov<br>🔭 I'm currently searching for a job as a Junior Full Stack / Backend / Frontend Developer.<br>🌱 I'm finished Full Stack course on John Bryce College
+🙋🏽‍♂️  I'm Yuval Haimov<br>🔭 I'm currently searching for a job as a Junior Full Stack / Backend / Frontend Developer.<br>🌱 I'm finished Full Stack course on John Bryce College
 
 
 ## 🌐 Socials:
