@@ -2,7 +2,7 @@
 👋 I'm Yuval Haimov.\
 👀 I'm searching for a job as a Junior Full Stack / Backend / Frontend Developer.\
 📫 You can reach me at Haimov1999@gmail.com or by phone at 054-2347732.\
-🌱 I just finished a Full Stack course at John Bryce college.\
+🌱 I just completed a Full Stack Web Development course at John Bryce College.\
 During the course, I developed several projects using new and advanced technologies, such as:
 
 Frontend (JavaScript, HTML, CSS):
