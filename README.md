@@ -5,8 +5,8 @@
 🌱 I just completed a Full Stack Web Development course at John Bryce College.\
 During the course, I developed several projects using new and advanced technologies, such as:
 
-React/Angular with MySQl and Node.js:
-https://vacations-to-relax-new.herokuapp.com
+React/Angular with MySQl and Node.js:\
+https://vacations-to-relax-new.herokuapp.com\
 https://gift-shop-new.herokuapp.com
 
 Frontend (JavaScript, HTML, CSS):
