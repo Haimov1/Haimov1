@@ -8,7 +8,7 @@ During the course, I developed several projects using new and advanced technolog
 React/Angular with MySQl and Node.js:
 - https://vacations-to-relax-new.herokuapp.com
 - https://gift-shop-new.herokuapp.com
-- https://am-pm-bb0ef60fbc30.herokuapp.com/home
+- https://am-pm-bb0ef60fbc30.herokuapp.com
 
 Frontend (JavaScript, HTML, CSS):
 - https://yuvalhaimov1.github.io/ChatGPT-App
