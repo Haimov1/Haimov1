@@ -16,7 +16,7 @@ Frontend (JavaScript, HTML, CSS):
 
 - https://yuvalhaimov1.github.io/Project-1-Task-Board
   
-- https://yuvalhaimov1.github.io/Harel-Insurance
+- https://yuvalhaimov1.github.io/Harel-Insurance/index.html
 
 jQuery:
 - https://yuvalhaimov1.github.io/Project-2-Crypto-Currency
